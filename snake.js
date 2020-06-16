@@ -12,7 +12,7 @@ ground.src = "img/ground.png";
 const foodImg = new Image();
 foodImg.src = "img/food.png";
 
-// load audio files
+// load audio files ss
 
 let dead = new Audio();
 let eat = new Audio();
