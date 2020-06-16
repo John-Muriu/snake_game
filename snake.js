@@ -4,7 +4,7 @@ const ctx = cvs.getContext("2d");
 // create the unit
 const box = 32;
 
-// load images
+// load images jj
 
 const ground = new Image();
 ground.src = "img/ground.png";
